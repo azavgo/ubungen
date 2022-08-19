@@ -378,7 +378,7 @@ She has long hair.
 I have a new car.
 A chicken and fries please!
 Would you like full board or half board?
-We meet in Hall B
+We meet in Hall B.
 Hello Inge! How are you?
 This train does not stop in Rüdesheim.
 You have to get off at the next stop.
@@ -415,7 +415,7 @@ The dog is still young.
 I'm hungry! When is the food ready?
 My name is Veronika.
 Please give her/him the book.
-please call him
+Please call him.
 Ms. Bast is always late.
 I live in Wiesbaden.
 The train is coming in five minutes.
