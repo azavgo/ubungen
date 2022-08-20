@@ -21,16 +21,21 @@ fn main() -> Result<(), UbungenError> {
 
     let args = env::args().collect::<Vec<String>>();
     
-    if args[1] == p {
-        phrases()?;
-    } else if args[1] == w {
-        words()?;
-    } else if args[1] == q {
-        println!("Arguments can only be either p for phrases or w for words.");
-    } else {
-        println!("Arguments can only be either p for phrases or w for words.");
-    }
-    
+    match args.len() {
+        2 => {
+            if args[1] == p {
+                phrases()?;
+            } else if args[1] == w {
+                words()?;
+            } else if args[1] == q {
+                println!("Arguments can only be either p for phrases or w for words.");
+            } else {
+                println!("Arguments can only be either p for phrases or w for words.");
+            }
+        },
+        _ => println!("Please use one of the arguments: p for phrases, or w for words."),
+    };
+
     Ok(())
 }
 
