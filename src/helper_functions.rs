@@ -82,5 +82,22 @@ impl Config {
     std::fs::write("config.json", serde_json::to_string_pretty(self).unwrap()).unwrap();
   }
 }
-
 //******************************** 
+//ConfigPhrases struct keeps records for each phrase ever used
+pub struct ConfigPharses {
+  pub phrase_number: usize, 
+  pub phrase_score: u8,
+  pub phrase_session: usize,
+}
+
+impl ConfigPharses {
+  pub fn new(phrase_number: usize, phrase_score: u8, phrase_session: usize) -> Self {
+    Self {
+      phrase_number: phrase_number, 
+      phrase_score: phrase_score, 
+      phrase_session: phrase_session,
+    }
+  }
+}
+
+//**************************
