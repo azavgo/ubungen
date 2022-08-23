@@ -38,7 +38,7 @@ pub fn lesson_logics(deutsch: Vec<String>, english: Vec<String>, count: u32, mut
         line = read!("{}\n");
         line_trim = line.trim().to_string();
 
-        //it seems the score logics is not implemented correctly
+        //the score logics
         if &line_trim != &deutsch[number] {
             score -= 1;
         } else {
@@ -66,6 +66,7 @@ pub struct Config {
     pub count: u32, 
     pub score_phrases: i32,
     pub score_words: i32,
+    pub session_count: usize,
 }
 
 impl Config {

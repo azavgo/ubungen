@@ -3,7 +3,8 @@
   "words_en": "words_en.txt",
   "phrases_de": "phrases_de.txt",
   "phrases_en": "phrases_en.txt",
-  "count": 2,
-  "score_phrases": -2,
-  "score_words": 0
+  "count": 1,
+  "score_phrases": -8,
+  "score_words": 0,
+  "session_count": 8
 }
