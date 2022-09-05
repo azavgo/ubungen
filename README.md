@@ -5,11 +5,24 @@
 ```console
    ./ubungen w
 ```
-1. Run ubungen program with the parameter "p" to learn German phrases
+If using cargo: 
+```console
+   cargo run -- w
+```
+
+2. Run ubungen program with the parameter "p" to learn German phrases
 ```console
    ./ubungen p
 ```
-1. Run ubungen program with the parameter "?" to get help
+If using cargo: 
+```console
+   cargo run -- p
+```
+3. Run ubungen program with the parameter "?" to get help
 ```console
    ./ubungen ?
+```
+If using cargo: 
+```console
+   cargo run -- ?
 ```
