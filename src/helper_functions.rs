@@ -18,8 +18,8 @@ pub fn random_number(number: usize) -> usize {
 pub fn read_data(input: &str) -> Result<Vec<String>, UbungenError> {
     let f = File::open(input)?; 
     let br = BufReader::new(f); 
-    let phrases_de: Vec<String> = br.lines().into_iter().map(|e| e.unwrap()).collect();
-    Ok(phrases_de)
+    let text_file_content: Vec<String> = br.lines().into_iter().map(|e| e.unwrap()).collect();
+    Ok(text_file_content)
 }
 //*************************************
 //function to drive the logics of the lesson
