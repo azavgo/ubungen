@@ -1,5 +1,9 @@
 ## ubungen is a command-line interface program that helps to learn German words and phrases. 
 
+### Spaced repetition logics: 
+1. The entry is selected randomly 
+1. 
+
 ### How to use this program: 
 1. Run ubungen program with the parameter "w" to learn German words
 ```console

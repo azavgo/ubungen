@@ -264,7 +264,7 @@ Fährst du mit dem Fahrrad oder mit dem Auto?
 Das ist falsch.
 Meine Familie lebt in Spanien.
 Meine Familiennamen sind García González.
-Bei „Familienstand“ musst du „ledig“ ankreuzen.
+Bei "Familienstand" musst du "ledig" ankreuzen.
 Die Farbe gefällt mir gut.
 Schicken Sie uns einfach ein Fax!
 z. B. Feierabend, Feiertag
@@ -342,7 +342,7 @@ Das Gespräch mit Frau Kunz ist um 14 Uhr.
 Gestern war ich krank.
 Meine Frau ist gestern gestorben.
 Mein Lieblingsgetränk ist Tomatensaft.
-Bei „Gewicht“ schreibst du: 62 Kilo.
+Bei "Gewicht" schreibst du: 62 Kilo.
 Wer gewinnt das Spiel?
 Bitte noch ein Glas Wein!
 Wir brauchen noch drei Gläser.
@@ -502,7 +502,7 @@ Wo macht man hier das Licht an?
 Liebe Susanne, lieber Hans,
 Ich liebe dich!
 Sie fährt lieber mit der Bahn.
-Mein Lieblingsfilm ist „Schwarze Augen“.
+Mein Lieblingsfilm ist "Schwarze Augen".
 Welches ist dein Lieblingslied?
 Um neun Uhr liegt Judith noch im Bett.
 Frankfurt liegt am Main.
