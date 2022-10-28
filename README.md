@@ -30,3 +30,16 @@ If using cargo:
 ```console
    cargo run -- ?
 ```
+If the keyboard does not have the specific letters used in German language, such as "ß" or "ü", one can use the following table to type these characters: 
+
+Type: ctrl + shift + code
+
+| Character | Code    |
+| :----:    | :----:  |
+| Ä         | 00c4    |
+| ä         | 00e4    |
+| Ö         | 00d6    |
+| ö         | 00f6    |
+| Ü         | 00dc    |
+| ü         | 00fc    |
+| ß         | 00df    |
