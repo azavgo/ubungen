@@ -2,7 +2,7 @@
 
 ### Spaced repetition logics: 
 1. The entry is selected randomly 
-1. 
+1. Each entry has to have 5 correct attempts. Each entry is recorded into journal_log.json as well as the number of the correct attempts for each entry. The entries from the journal_log.json file are selected randomly (not yet implemented). 
 
 ### How to use this program: 
 1. Run ubungen program with the parameter "w" to learn German words
