@@ -32,7 +32,7 @@ If using cargo:
 ```
 If the keyboard does not have the specific letters used in German language, such as "ß" or "ü", one can use the following table to type these characters: 
 
-Type: ctrl + shift + code
+Type: ctrl + shift + u, then type the code below, which corresponds to the character you want to type: 
 
 | Character | Code    |
 | :----:    | :----:  |
